@@ -1,4 +1,4 @@
-# Create a CI/CD pipeline for .NET with the DevOps Starter Project
+# CI/CD pipeline for .NET with the DevOps Starter Project
 
 ![devops](https://imgur.com/gBofYCl.png)
 
@@ -179,25 +179,3 @@ The Azure DevOps project created a Git repository in your Azure DevOps organizat
    ![browsewebapp](https://imgur.com/TQUxbBb.png)
 
    ![updatedsite](https://imgur.com/YSM4t43.png)
-
-## 🛠️ Author & Community  
-
-This project is crafted by **[Harshhaa](https://github.com/NotHarshhaa)** 💡.  
-I’d love to hear your feedback! Feel free to share your thoughts.  
-
-📧 **Connect with me:**
-
-- **GitHub**: [@NotHarshhaa](https://github.com/NotHarshhaa)  
-- **Blog**: [ProDevOpsGuy](https://blog.prodevopsguy.xyz)  
-- **Telegram Community**: [Join Here](https://t.me/prodevopsguy)  
-- **LinkedIn**: [Harshhaa Vardhan Reddy](https://www.linkedin.com/in/harshhaa-vardhan-reddy/)  
-
----
-
-## ⭐ Support the Project  
-
-If you found this helpful, consider **starring** ⭐ the repository and sharing it with your network! 🚀  
-
-### 📢 Stay Connected  
-
-![Follow Me](https://imgur.com/2j7GSPs.png)
